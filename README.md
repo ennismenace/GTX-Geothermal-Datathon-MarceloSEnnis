@@ -1,1 +1,1 @@
-# https-github.com-gtxdatathon-GTX-Geothermal-Datathon-Marcelo
+# GTX-Geothermal-Datathon-Marcelo
